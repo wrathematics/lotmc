@@ -555,6 +555,14 @@ Fix $n$ and call the number of n-grams $N$ and the number of words $W$.
 * How to store them?
 * We use a linked list!
 
+## What About Transition Matrices?
+
+Full matrix size: $8\cdot N^2$
+
+* Text size: 1.343 MiB
+* n=2 full matrix: 127.688 GiB
+* n=3 full matrix: 370.669 GiB
+* ngram representation: 5.8 MiB
 
 
 

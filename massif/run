@@ -1,0 +1,4 @@
+#!/bin/sh
+
+R -d "valgrind --tool=massif" --vanilla < test.r
+
