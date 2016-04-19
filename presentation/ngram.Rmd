@@ -419,7 +419,7 @@ system after n plays.
 >'The expected value decreases with each good night to you,' said Boromir.
 
 ## n=3
->'Now! ' shouted Gandalf. 'Now is the last one we will let $E_n (y) = E(y | S_n = s_n , . . . k − 1}$.
+>'Now! ' shouted Gandalf. 'Now is the last one we will let $E_n (y) = E(y \  | \  S_n = s_n , \dots k - 1\}$.
 
 
 ## n=3
@@ -435,6 +435,16 @@ system after n plays.
 
 
 # A Little Computer Science
+
+## Computer Science
+<script language="javascript">
+  function animooted(){
+    document.getElementById("click2change").src = "pics/cs.gif";
+  }
+</script>
+<center>
+  <img src="pics/cs_thumb.png" width=600 id="click2change" onclick="animooted()">
+</center>
 
 ## Common Data Structures
 * Arrays
