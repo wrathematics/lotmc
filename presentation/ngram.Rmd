@@ -363,10 +363,7 @@ cat("tau: ", tautime, "\nngram: ", ngtime, "\ntau/ngram: ", tautime/ngtime, "\n"
 <img src="pics/social/twitter.svg" height=20px> Twitter: @wrathematics
 
 
-
-
-
 <br><br>
 <center>
-  Slides available: http://fixme.com
+  <img src="pics/social/slides.png" height=20px> Slides available: http://fixme.com
 </center>
